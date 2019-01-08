@@ -1,4 +1,4 @@
 def using_push (string, array)
-  array.push(string)
-  return array
+  return array.push(string)
+  
 end
